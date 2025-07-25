@@ -1,0 +1,166 @@
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\ApplicationInsights.config
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\roslyn\csc.exe
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\roslyn\vbc.exe
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\roslyn\VBCSCompiler.exe
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\CURDWebApp.dll.config
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\CURDWebApp.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\CURDWebApp.pdb
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\WebForms_Basic.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Antlr3.Runtime.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\EntityFramework.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\EntityFramework.SqlServer.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AI.Web.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AI.WindowsServer.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.ApplicationInsights.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.Google.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Newtonsoft.Json.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Owin.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\System.Web.Optimization.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\System.Web.Providers.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\WebGrease.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AI.Web.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AI.WindowsServer.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.ApplicationInsights.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\System.Web.Optimization.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Antlr3.Runtime.pdb
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Newtonsoft.Json.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\EntityFramework.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\EntityFramework.SqlServer.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\System.Web.Providers.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.Google.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\obj\Debug\CURDWebApp.vbprojResolveAssemblyReference.cache
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\obj\Debug\CURDWebApp.Resources.resources
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\obj\Debug\CURDWebApp.vbproj.GenerateResource.Cache
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\obj\Debug\CURDWebApp.dll
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\obj\Debug\WebForms_Basic.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\CURDWebAppSolution\CURDWebApp\obj\Debug\CURDWebApp.pdb
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\ApplicationInsights.config
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\roslyn\csc.exe
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\roslyn\vbc.exe
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\roslyn\VBCSCompiler.exe
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\CURDWebApp.dll.config
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\CURDWebApp.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\CURDWebApp.pdb
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\WebForms_Basic.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Antlr3.Runtime.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\AspNet.ScriptManager.jQuery.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\EntityFramework.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\EntityFramework.SqlServer.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AI.Web.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AI.WindowsServer.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.ApplicationInsights.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.Google.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Newtonsoft.Json.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Owin.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\System.Web.Optimization.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\System.Web.Providers.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\WebGrease.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AI.Web.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AI.WindowsServer.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.ApplicationInsights.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\System.Web.Optimization.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Antlr3.Runtime.pdb
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Newtonsoft.Json.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\EntityFramework.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\EntityFramework.SqlServer.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\System.Web.Providers.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.Google.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\obj\Debug\CURDWebApp.vbprojResolveAssemblyReference.cache
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\obj\Debug\CURDWebApp.Resources.resources
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\obj\Debug\CURDWebApp.vbproj.GenerateResource.Cache
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\obj\Debug\CURDWebApp.dll
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\obj\Debug\WebForms_Basic.xml
+D:\Office space\.Net fullstack\VB.Net\New folder\Visual Studio 2015\Projects\CURDWebAppSolution\CURDWebApp\obj\Debug\CURDWebApp.pdb

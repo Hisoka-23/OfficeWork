@@ -1,0 +1,11 @@
+E:\Prakash\Vb.net\LogicalOperatorsSolution\LogicalOperators\bin\Debug\LogicalOperators.exe.config
+E:\Prakash\Vb.net\LogicalOperatorsSolution\LogicalOperators\bin\Debug\LogicalOperators.exe
+E:\Prakash\Vb.net\LogicalOperatorsSolution\LogicalOperators\bin\Debug\LogicalOperators.pdb
+E:\Prakash\Vb.net\LogicalOperatorsSolution\LogicalOperators\bin\Debug\LogicalOperators.xml
+E:\Prakash\Vb.net\LogicalOperatorsSolution\LogicalOperators\obj\Debug\LogicalOperators.vbprojResolveAssemblyReference.cache
+E:\Prakash\Vb.net\LogicalOperatorsSolution\LogicalOperators\obj\Debug\LogicalOperators.Form1.resources
+E:\Prakash\Vb.net\LogicalOperatorsSolution\LogicalOperators\obj\Debug\LogicalOperators.Resources.resources
+E:\Prakash\Vb.net\LogicalOperatorsSolution\LogicalOperators\obj\Debug\LogicalOperators.vbproj.GenerateResource.Cache
+E:\Prakash\Vb.net\LogicalOperatorsSolution\LogicalOperators\obj\Debug\LogicalOperators.exe
+E:\Prakash\Vb.net\LogicalOperatorsSolution\LogicalOperators\obj\Debug\LogicalOperators.xml
+E:\Prakash\Vb.net\LogicalOperatorsSolution\LogicalOperators\obj\Debug\LogicalOperators.pdb

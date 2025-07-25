@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Prakash\\vb.net 2022\\ConsoleAppSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11B51F9A-F175-4496-B9DB-047FF2E660BE}|ConsoleApp\\ConsoleApp.vbproj|e:\\prakash\\vb.net 2022\\consoleappsolution\\consoleapp\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{11B51F9A-F175-4496-B9DB-047FF2E660BE}|ConsoleApp\\ConsoleApp.vbproj|solutionrelative:consoleapp\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "E:\\Prakash\\vb.net 2022\\ConsoleAppSolution\\ConsoleApp\\Program.vb",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.vb",
+              "ToolTip": "E:\\Prakash\\vb.net 2022\\ConsoleAppSolution\\ConsoleApp\\Program.vb",
+              "RelativeToolTip": "ConsoleApp\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T12:56:17.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

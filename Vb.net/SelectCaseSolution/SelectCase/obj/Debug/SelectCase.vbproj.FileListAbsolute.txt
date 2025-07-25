@@ -1,0 +1,11 @@
+E:\Prakash\Vb.net\SelectCaseSolution\SelectCase\bin\Debug\SelectCase.exe.config
+E:\Prakash\Vb.net\SelectCaseSolution\SelectCase\bin\Debug\SelectCase.exe
+E:\Prakash\Vb.net\SelectCaseSolution\SelectCase\bin\Debug\SelectCase.pdb
+E:\Prakash\Vb.net\SelectCaseSolution\SelectCase\bin\Debug\SelectCase.xml
+E:\Prakash\Vb.net\SelectCaseSolution\SelectCase\obj\Debug\SelectCase.vbprojResolveAssemblyReference.cache
+E:\Prakash\Vb.net\SelectCaseSolution\SelectCase\obj\Debug\SelectCase.Form1.resources
+E:\Prakash\Vb.net\SelectCaseSolution\SelectCase\obj\Debug\SelectCase.Resources.resources
+E:\Prakash\Vb.net\SelectCaseSolution\SelectCase\obj\Debug\SelectCase.vbproj.GenerateResource.Cache
+E:\Prakash\Vb.net\SelectCaseSolution\SelectCase\obj\Debug\SelectCase.exe
+E:\Prakash\Vb.net\SelectCaseSolution\SelectCase\obj\Debug\SelectCase.xml
+E:\Prakash\Vb.net\SelectCaseSolution\SelectCase\obj\Debug\SelectCase.pdb

@@ -1,0 +1,11 @@
+E:\Prakash\Vb.net\InputPromotSolution\InputPromot\bin\Debug\InputPromot.exe.config
+E:\Prakash\Vb.net\InputPromotSolution\InputPromot\bin\Debug\InputPromot.exe
+E:\Prakash\Vb.net\InputPromotSolution\InputPromot\bin\Debug\InputPromot.pdb
+E:\Prakash\Vb.net\InputPromotSolution\InputPromot\bin\Debug\InputPromot.xml
+E:\Prakash\Vb.net\InputPromotSolution\InputPromot\obj\Debug\InputPromot.vbprojResolveAssemblyReference.cache
+E:\Prakash\Vb.net\InputPromotSolution\InputPromot\obj\Debug\InputPromot.Form1.resources
+E:\Prakash\Vb.net\InputPromotSolution\InputPromot\obj\Debug\InputPromot.Resources.resources
+E:\Prakash\Vb.net\InputPromotSolution\InputPromot\obj\Debug\InputPromot.vbproj.GenerateResource.Cache
+E:\Prakash\Vb.net\InputPromotSolution\InputPromot\obj\Debug\InputPromot.exe
+E:\Prakash\Vb.net\InputPromotSolution\InputPromot\obj\Debug\InputPromot.xml
+E:\Prakash\Vb.net\InputPromotSolution\InputPromot\obj\Debug\InputPromot.pdb

@@ -1,0 +1,14 @@
+E:\Prakash\vb.net 2022\ConsoleAppSolution\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+E:\Prakash\vb.net 2022\ConsoleAppSolution\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+E:\Prakash\vb.net 2022\ConsoleAppSolution\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+E:\Prakash\vb.net 2022\ConsoleAppSolution\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+E:\Prakash\vb.net 2022\ConsoleAppSolution\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+E:\Prakash\vb.net 2022\ConsoleAppSolution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Prakash\vb.net 2022\ConsoleAppSolution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+E:\Prakash\vb.net 2022\ConsoleAppSolution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.vb
+E:\Prakash\vb.net 2022\ConsoleAppSolution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.vbproj.CoreCompileInputs.cache
+E:\Prakash\vb.net 2022\ConsoleAppSolution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+E:\Prakash\vb.net 2022\ConsoleAppSolution\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+E:\Prakash\vb.net 2022\ConsoleAppSolution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+E:\Prakash\vb.net 2022\ConsoleAppSolution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+E:\Prakash\vb.net 2022\ConsoleAppSolution\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll

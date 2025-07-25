@@ -1,0 +1,11 @@
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\DataTypeSolution\DataType\bin\Debug\DataType.exe.config
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\DataTypeSolution\DataType\bin\Debug\DataType.exe
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\DataTypeSolution\DataType\bin\Debug\DataType.pdb
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\DataTypeSolution\DataType\bin\Debug\DataType.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\DataTypeSolution\DataType\obj\Debug\DataType.vbprojResolveAssemblyReference.cache
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\DataTypeSolution\DataType\obj\Debug\DataType.Form1.resources
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\DataTypeSolution\DataType\obj\Debug\DataType.Resources.resources
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\DataTypeSolution\DataType\obj\Debug\DataType.vbproj.GenerateResource.Cache
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\DataTypeSolution\DataType\obj\Debug\DataType.exe
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\DataTypeSolution\DataType\obj\Debug\DataType.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\DataTypeSolution\DataType\obj\Debug\DataType.pdb

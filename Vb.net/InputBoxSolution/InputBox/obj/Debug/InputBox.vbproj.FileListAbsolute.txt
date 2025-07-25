@@ -1,0 +1,11 @@
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\InputBoxSolution\InputBox\bin\Debug\InputBox.exe.config
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\InputBoxSolution\InputBox\bin\Debug\InputBox.exe
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\InputBoxSolution\InputBox\bin\Debug\InputBox.pdb
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\InputBoxSolution\InputBox\bin\Debug\InputBox.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\InputBoxSolution\InputBox\obj\Debug\InputBox.vbprojResolveAssemblyReference.cache
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\InputBoxSolution\InputBox\obj\Debug\InputBox.Form1.resources
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\InputBoxSolution\InputBox\obj\Debug\InputBox.Resources.resources
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\InputBoxSolution\InputBox\obj\Debug\InputBox.vbproj.GenerateResource.Cache
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\InputBoxSolution\InputBox\obj\Debug\InputBox.exe
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\InputBoxSolution\InputBox\obj\Debug\InputBox.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\InputBoxSolution\InputBox\obj\Debug\InputBox.pdb

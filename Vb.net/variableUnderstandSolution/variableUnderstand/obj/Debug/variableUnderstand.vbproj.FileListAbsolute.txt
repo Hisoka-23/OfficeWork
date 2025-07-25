@@ -1,0 +1,11 @@
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\variableUnderstandSolution\variableUnderstand\bin\Debug\variableUnderstand.exe.config
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\variableUnderstandSolution\variableUnderstand\bin\Debug\variableUnderstand.exe
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\variableUnderstandSolution\variableUnderstand\bin\Debug\variableUnderstand.pdb
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\variableUnderstandSolution\variableUnderstand\bin\Debug\variableUnderstand.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\variableUnderstandSolution\variableUnderstand\obj\Debug\variableUnderstand.vbprojResolveAssemblyReference.cache
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\variableUnderstandSolution\variableUnderstand\obj\Debug\variableUnderstand.Form1.resources
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\variableUnderstandSolution\variableUnderstand\obj\Debug\variableUnderstand.Resources.resources
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\variableUnderstandSolution\variableUnderstand\obj\Debug\variableUnderstand.vbproj.GenerateResource.Cache
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\variableUnderstandSolution\variableUnderstand\obj\Debug\variableUnderstand.exe
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\variableUnderstandSolution\variableUnderstand\obj\Debug\variableUnderstand.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\variableUnderstandSolution\variableUnderstand\obj\Debug\variableUnderstand.pdb

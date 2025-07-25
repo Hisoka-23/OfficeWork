@@ -1,0 +1,11 @@
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\AddingTwoNumberSolution\AddingTwoNumber\bin\Debug\AddingTwoNumber.exe.config
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\AddingTwoNumberSolution\AddingTwoNumber\bin\Debug\AddingTwoNumber.exe
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\AddingTwoNumberSolution\AddingTwoNumber\bin\Debug\AddingTwoNumber.pdb
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\AddingTwoNumberSolution\AddingTwoNumber\bin\Debug\AddingTwoNumber.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\AddingTwoNumberSolution\AddingTwoNumber\obj\Debug\AddingTwoNumber.vbprojResolveAssemblyReference.cache
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\AddingTwoNumberSolution\AddingTwoNumber\obj\Debug\AddingTwoNumber.Form1.resources
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\AddingTwoNumberSolution\AddingTwoNumber\obj\Debug\AddingTwoNumber.Resources.resources
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\AddingTwoNumberSolution\AddingTwoNumber\obj\Debug\AddingTwoNumber.vbproj.GenerateResource.Cache
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\AddingTwoNumberSolution\AddingTwoNumber\obj\Debug\AddingTwoNumber.exe
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\AddingTwoNumberSolution\AddingTwoNumber\obj\Debug\AddingTwoNumber.xml
+c:\users\asus\onedrive\documents\visual studio 2015\Projects\AddingTwoNumberSolution\AddingTwoNumber\obj\Debug\AddingTwoNumber.pdb

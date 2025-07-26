@@ -1,0 +1,12 @@
+﻿body {
+
+    .title{
+        text-align: center;
+    }
+
+    .hello {
+        text-align: center;
+        font-size: 100px;
+    }
+
+}

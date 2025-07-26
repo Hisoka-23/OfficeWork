@@ -9,3 +9,14 @@ E:\Prakash\Vb.net\ProjectSolution\Project\obj\Debug\Project.vbproj.GenerateResou
 E:\Prakash\Vb.net\ProjectSolution\Project\obj\Debug\Project.exe
 E:\Prakash\Vb.net\ProjectSolution\Project\obj\Debug\Project.xml
 E:\Prakash\Vb.net\ProjectSolution\Project\obj\Debug\Project.pdb
+E:\Prakash(ZDS_officeWork)\Vb.net\ProjectSolution\Project\bin\Debug\Project.exe.config
+E:\Prakash(ZDS_officeWork)\Vb.net\ProjectSolution\Project\bin\Debug\Project.exe
+E:\Prakash(ZDS_officeWork)\Vb.net\ProjectSolution\Project\bin\Debug\Project.pdb
+E:\Prakash(ZDS_officeWork)\Vb.net\ProjectSolution\Project\bin\Debug\Project.xml
+E:\Prakash(ZDS_officeWork)\Vb.net\ProjectSolution\Project\obj\Debug\Project.vbprojResolveAssemblyReference.cache
+E:\Prakash(ZDS_officeWork)\Vb.net\ProjectSolution\Project\obj\Debug\Project.Form1.resources
+E:\Prakash(ZDS_officeWork)\Vb.net\ProjectSolution\Project\obj\Debug\Project.Resources.resources
+E:\Prakash(ZDS_officeWork)\Vb.net\ProjectSolution\Project\obj\Debug\Project.vbproj.GenerateResource.Cache
+E:\Prakash(ZDS_officeWork)\Vb.net\ProjectSolution\Project\obj\Debug\Project.exe
+E:\Prakash(ZDS_officeWork)\Vb.net\ProjectSolution\Project\obj\Debug\Project.xml
+E:\Prakash(ZDS_officeWork)\Vb.net\ProjectSolution\Project\obj\Debug\Project.pdb

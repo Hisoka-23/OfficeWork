@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+}
+
+#main{
+    height: 100%;
+    width: 100%;
+    background-color: red;
+    display: flex;
+}
+
+#part-1{
+    height: 100%;
+    width: 25%;
+    background-color: red;
+}
+
+#part-2{
+    height: 100%;
+    width: 65%;
+    background-color: blue;
+}
+
+#part-3{
+    height: 100%;
+    width: 10%;
+    background-color: green;
+}

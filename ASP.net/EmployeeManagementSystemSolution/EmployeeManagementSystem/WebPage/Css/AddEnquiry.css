@@ -1,0 +1,25 @@
+﻿#main {
+    height: 100%;
+    width:100%;
+    /*background-color: red;*/
+    display: flex;
+    
+}
+
+#part-1 {
+    height: 1200px;
+    width:25%;
+    background-color: red;
+}
+
+#part-2 {
+    height: 1200px;
+    width:65%;
+    background-color: green;
+}
+
+#part-3 {
+    height: 1200px;
+    width:10%;
+    background-color: blue;
+}

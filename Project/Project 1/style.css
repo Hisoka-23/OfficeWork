@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html , body{
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+#main{
+    height: 100%;
+    width: 100%;
+    background-color: hsla(210, 79%, 71%, 0.964);
+    display: flex;
+}
+
+#part1{
+    height: 100%;
+    width: 25%;
+    /* background-color: red; */
+}
+
+#part2{
+    height: 100%;
+    width: 69%;
+    background-color: rgb(68, 0, 255);
+    background-image: url(IMG_20241116_133258.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#overlay{
+    height: 100%;
+    width: 100%;
+    background-color: hsla(211, 56%, 56%, 0.421);
+}
+
+#part3{
+    height: 100%;
+    width: 6%;
+    /* background-color: rgb(0, 255, 106); */
+}
+
+#text-div{
+    /* height: 300px; */
+    position: absolute;
+    width: 400px;
+    /* background-color: red; */
+    left: 7%;
+    top: 30%;
+    transform: translate(0, -50);
+}
+
+#text-div>h1{
+    font-size: 95px;
+    font-family: monument;
+    font-weight: 900;
+    letter-spacing: 8px;
+    line-height: 78px;
+    color: white;
+    text-transform: uppercase;
+}
+
+#small-image-div{
+    height: 400px;
+    width: 300px;
+    /* background-color: red; */
+    background-image: url(Prakash.jpg);
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 25%;
+    right: 2%;
+    transform: translate(0, -50);
+
+}
+
+#vertical-text{
+    position: absolute;
+    /* width: 100%; */
+    /* background-color: red; */
+    right: -55%;
+    top: -5;
+    transform: rotate(90deg);
+    transform-origin: 0% 0%;
+}
+
+#vertical-text h1{
+    font-size: 70px;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: transparent;
+    letter-spacing: 10px;
+    font-family: monument;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #fff;
+}
+
+#nav{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 450px;
+    left: 7%;
+    top: 5%;
+    /* background-color: red; */
+}
+
+#nav img{
+    height: 60px;
+}
+
+#nav h5{
+    font-size: 20px;
+    color: #fff;
+    font-family: gilroy;
+}

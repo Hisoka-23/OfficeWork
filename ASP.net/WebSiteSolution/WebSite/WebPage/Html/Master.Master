@@ -1,0 +1,66 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Master.master.vb" Inherits="WebSite.Master" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <link rel="stylesheet" href="../Css/Master.css" type="text/css" />
+
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <div id="Main">
+
+            <%-- Header start --%>
+
+            <div id="Header">
+
+                <header id="Header-main">
+
+                    <nav id="navBar">
+
+                        <img src="../Image/zds_logo.png" alt="ZDS infotect logo"  />
+
+                    </nav>
+
+                </header>
+
+            </div>
+
+            <%-- Header end --%>
+
+        <%-- default page contect start --%>
+
+        <div id="content">
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+            </asp:ContentPlaceHolder>
+
+        </div>
+
+        <%-- default page contect End --%>
+
+            <%-- Footer start --%>
+
+                <div id="Footer">
+
+                    <footer id="Footer-main">
+                        <%--<h2>ZDS intotech @copy right 2025</h2>--%>
+                    </footer>
+
+                </div>
+
+            <%-- Footer End --%>
+
+        </div>
+
+    </form>
+</body>
+</html>

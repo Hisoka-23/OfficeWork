@@ -1,0 +1,66 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Master.master.vb" Inherits="Z_Pay.Master" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="../CSS/Master.css" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <%-- Main Start --%>
+        <div id="main">
+
+            <%-- Header Start --%>
+            <div id="nav">
+                <img src="../Image/zds_logo.png" />
+                <div id="part2">
+                    <a href="#">Services</a>
+                    <a href="#">Work</a>
+                    <a href="#">About</a>
+                    <a href="#">Culture</a>
+                    <a href="#">Careers</a>
+                    <a href="#">
+                        <h5>Contact us</h5>
+                        <div id="blue"></div>
+                    </a>
+                </div>
+            </div>
+            <%-- Header End --%>
+
+            <div id="content">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+                </asp:ContentPlaceHolder>
+            </div>
+
+            <%-- Footer Start --%>
+                <footer id="foot">
+                    <div id="foot-part1">
+                        <div id="image">
+                            <%--<img src="../Image/z-pay.png" />
+                            <img src="../Image/edsys.png" />--%>
+                        </div>
+                    </div>
+                   <div id="foot-part2">
+                       <div id="copyRight">
+                           © 
+                           2025
+                            ZDS InfoTect Pvt. Ltd.
+                           <a href="#">Privacy Policy</a>
+                           <a href="#">Terms of Use</a>
+                       </div>
+                   </div>
+                </footer>
+            <%-- Footer End --%>
+
+        </div>
+        <%-- Main End --%>
+
+    </form>
+</body>
+</html>

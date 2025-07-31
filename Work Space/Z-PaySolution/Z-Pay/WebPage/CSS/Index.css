@@ -1,0 +1,103 @@
+﻿#center{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+#card{
+    height: 540px;
+    width: 360px;
+    background-color: white;
+    margin-top: 80px;
+}
+
+#card #div1 {
+    display: flex;
+    align-content:center;
+    justify-content: center;
+    margin-top: 32px;
+}
+
+#card #div1 img{
+    height: 150px;
+    width: 180px;
+}
+
+#card #div2{
+    display: flex;
+    align-content:center;
+    justify-content: center;
+    margin-top: 32px;
+}
+
+#card #div2 input {
+    font-family: "gilroy";
+    font-size:16px;
+    color: aliceblue;
+    line-height: 1.2;
+    display: block;
+    height: 50px;
+    width: 300px;
+    background: transparent;
+    padding: 0 20px 0 23px;
+}
+
+#card #div3{
+    display: flex;
+    align-content:center;
+    justify-content: center;
+    margin-top: 32px;
+}
+
+#card #div3 input {
+    font-family: "gilroy";
+    font-size:16px;
+    color: aliceblue;
+    line-height: 1.2;
+    display: block;
+    height: 50px;
+    width: 300px;
+    background: transparent;
+    padding: 0 20px 0 23px;
+}
+
+#card #div4 {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top: 32px;
+}
+
+#card #div4 input {
+    font-family: "gilroy";
+    font-size:16px;
+    color: aliceblue;
+    line-height: 1.2;
+    display: block;
+    height: 50px;
+    width: 300px;
+    background: transparent;
+    padding: 0 20px 0 23px;
+}
+
+#card #div5 {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top: 32px;
+}
+
+#card #div5 input {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 0 20px;
+    height: 50px;
+    background-color: #34699A;
+    font-family: gilroy;
+    font-size: 14px;
+    color: #fff;
+    line-height: 1.2;
+    width: 300px;
+    text-transform: uppercase;
+}

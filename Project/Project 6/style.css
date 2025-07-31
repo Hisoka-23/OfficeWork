@@ -132,3 +132,84 @@ html , body{
 #main img:hover{
     margin-top: -10px;
 }
+
+#page2{
+    height: 70vh;
+    width: 100%;
+    background-color: #000;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    flex-direction: column;
+}
+
+#page2 h5{
+    font-size: 19px;
+    font-family: gilroy;
+    font-weight: 500;
+    position: relative;
+}
+
+#page2 h5::before{
+    content: "";
+    position: absolute;
+    left: -7%;
+    top: 20%;
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    background-color: springgreen;
+}
+
+#page2 h1{
+    margin: 26px 0;
+    font-size: 49px;
+    font-family: cooper;
+    width: 70%;
+    text-align: center;
+    font-weight: 100;
+    position: relative;
+}
+
+#page2 h1::after{
+    content: "";
+    position: absolute;
+    height: 90px;
+    width: 236px;
+    bottom: -7px;
+    /* background-color: red; */
+    left: 34%;
+    background-image: url(https://thisisdigital.co.uk/dist/images/circle-green.svg);
+}
+
+#about-us{
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+}
+
+#about-us>h4{
+    font-size: 28px;
+    font-family: gilroy;
+    font-weight: 500;
+}
+
+#green-div{
+    height: 40px;
+    width: 80px;
+    /* background-color: blue; */
+    border: 2px solid #fff;
+    border-radius: 50px;
+    margin-left: 20px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#about-us img{
+    height: 40px;
+    
+}

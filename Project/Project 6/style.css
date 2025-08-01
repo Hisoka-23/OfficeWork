@@ -213,3 +213,8 @@ html , body{
     height: 40px;
     
 }
+
+#page3{
+    height: 100vh;
+    width: vw;
+}

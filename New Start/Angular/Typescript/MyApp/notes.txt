@@ -1,0 +1,15 @@
+varibles:
+---------
+syntax:
+-------
+var variableName:dataType=value;
+
+dataType:
+---------
+1. number
+    I. decimal
+    II. Floating
+2. string
+
+3. boolean
+4. any

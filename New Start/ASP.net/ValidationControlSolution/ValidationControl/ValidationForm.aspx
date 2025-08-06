@@ -8,7 +8,7 @@
     <style type="text/css">
         .auto-style1 {
             width: 100%;
-            height: 337px;
+            height: 407px;
             margin-top: 0px;
         }
         .auto-style2 {
@@ -28,7 +28,7 @@
 <body style="height: 439px">
     <form id="form1" runat="server">
         
-        <div style="height: 396px">
+        <div style="height: 454px">
             <h2>Employee registration form</h2>
 
             <table class="auto-style1">
@@ -78,9 +78,17 @@
                 </td>
             </tr>
             <tr>
+                <td class="auto-style4">GENDER</td>
+                <td class="auto-style5">
+                    <asp:RadioButton ID="MaleRadioButton" runat="server" GroupName="GenderGroup" Text="Male" />
+                    <asp:RadioButton ID="FemaleRadioButton" runat="server" GroupName="GenderGroup" Text="Female" />
+                    <asp:CustomValidator ID="CustomValidator1" runat="server" Display="Dynamic" ErrorMessage="Please select a gender" ForeColor="Red" SetFocusOnError="True">*</asp:CustomValidator>
+                </td>
+            </tr>
+            <tr>
                 <td class="auto-style3">&nbsp;</td>
                 <td>
-                    <asp:Button ID="Button1" runat="server" Text="Submit" Width="183px" />
+                    <asp:Button ID="Button1" runat="server" Text="Submit" Width="183px" Height="39px" />
                 </td>
             </tr>
         </table>

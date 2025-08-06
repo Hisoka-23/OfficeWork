@@ -149,6 +149,33 @@ Partial Public Class ValidationForm
     Protected WithEvents RangeValidator2 As Global.System.Web.UI.WebControls.RangeValidator
     
     '''<summary>
+    '''MaleRadioButton control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents MaleRadioButton As Global.System.Web.UI.WebControls.RadioButton
+    
+    '''<summary>
+    '''FemaleRadioButton control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents FemaleRadioButton As Global.System.Web.UI.WebControls.RadioButton
+    
+    '''<summary>
+    '''CustomValidator1 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents CustomValidator1 As Global.System.Web.UI.WebControls.CustomValidator
+    
+    '''<summary>
     '''Button1 control.
     '''</summary>
     '''<remarks>

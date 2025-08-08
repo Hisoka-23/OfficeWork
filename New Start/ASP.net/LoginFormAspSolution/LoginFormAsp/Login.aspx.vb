@@ -13,7 +13,7 @@ Public Class Login
         Dim cs As String = ConfigurationManager.ConnectionStrings("docs2").ConnectionString
 
         Dim con As New SqlConnection(cs)
-        Dim Query As String = "select * from login where username = @username and password = @password"
+        Dim Query As String = "select * from signup where username = @username and password = @password"
         Dim cmd As New SqlCommand(Query, con)
         cmd.Parameters.AddWithValue("@username", TextBox1.Text)
         cmd.Parameters.AddWithValue("@password", TextBox2.Text)
@@ -30,5 +30,7 @@ Public Class Login
         con.Close()
 
     End Sub
+
+
 
 End Class

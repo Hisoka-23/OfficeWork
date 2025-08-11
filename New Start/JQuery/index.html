@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- basic syntax -->
+    <!-- $(selector).action() -->
+    <!-- $().function() -->
+
+    <p id="p1">Welcome to Jquery</p>
+    <p class="c1">welcome to learning never ends</p>
+    <p>Good evening</p>
+
+    <input type="button" value="Click" id="Btn">
+
+    <script src="Jquery.js"></script>
+
+    <script>
+        $(document).ready(function(){
+            alert('welcome to Jquery');
+        });
+
+        $(document).ready(function(){
+            $("#Btn").click(function(){
+                $("#p1").css("color", "green");
+                $(".c1").css("font-size", "35px");
+                $("p").css("font-family","cooper");
+            });
+        });
+    </script>
+
+    
+</body>
+</html>

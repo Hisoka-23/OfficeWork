@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jquery</title>
+    
+</head>
+<body>
+    
+    <!-- <p>Welcome to jquery</p>
+    <P>welcome to zds infotech</P>
+
+    <h1>Heading 1</h1>
+    <h2>Heading 2</h2>
+    <h3>Heading 3</h3> -->
+
+    <ul id="List1">
+        <li>India</li>
+        <li>USA</li>
+        <li>Japan</li>
+        <li>Ussr</li>
+        <li>Goa</li>
+    </ul>
+
+    <script src="Jquery.js"></script>
+
+    <input type="button" value="Click" id="Btn">
+
+    <script>
+        $(document).ready(function(){
+            $("#Btn").Click(function(){
+                // $("*").css("color", "green");
+                $("ul li").css("font-size", "40px");
+            });
+        });
+    </script>
+
+    
+</body>
+</html>

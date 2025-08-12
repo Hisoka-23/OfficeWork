@@ -11,11 +11,12 @@
         <div>
             
             <asp:DropDownList ID="DropDownList1" runat="server" Height="36px" Width="132px">
-                <%--<asp:ListItem Value="5" Selected="True">Select</asp:ListItem>
-                <asp:ListItem Value="3">Delhi</asp:ListItem>
-                <asp:ListItem Value="1">Noida</asp:ListItem>
-                <asp:ListItem Value="2" Text="Hyderabad"></asp:ListItem>
-                <asp:ListItem Value="4" Enabled="false">Japan</asp:ListItem>--%>
+                <asp:listitem value="-1" selected="true">Select City</asp:listitem>
+				<asp:listitem value="1">Gura City</asp:listitem>
+                <asp:listitem value="2">delhi</asp:listitem>
+                <asp:listitem value="3">noida</asp:listitem>
+                <asp:listitem value="4" text="hyderabad"></asp:listitem>
+                <asp:listitem value="5" enabled="false">japan</asp:listitem>
             </asp:DropDownList>
             
             <br />
